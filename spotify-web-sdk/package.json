@@ -1,0 +1,16 @@
+{
+  "name": "spotify-web-sdk",
+  "version": "1.0.0",
+  "description": "Spotify Web Playback SDK with OAuth",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": " node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {}
+}
